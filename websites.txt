@@ -3,3 +3,9 @@ http://www.markprindle.com/minora.htm
 http://www.grandmotors.az
 http://www.ampurias.net
 https://www.rottentomatoes.com/m/semitough
+https://www.dosomething.org/us
+https://www.civicus.org/
+https://www.changemakers.com/
+https://credoaction.com/
+https://reliefweb.wordpress.com/
+https://github.com/jparksecurity/DataMining_MaliciousURL
